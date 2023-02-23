@@ -1,1 +1,7 @@
+<error>
+  <title>the form doesn't work correctly with non-integer numbers</title>
+  <description>set the parameters of the sides of the triangle - 10.5cm</description>
+  <description>expect an equilateral triangle to have the given side parameters equal to 10.5 cm</description>
+  <description>form generates an error</description>
+  </error>
 
